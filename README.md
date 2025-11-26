@@ -2,9 +2,9 @@
 
 ###  DATE: 18/09/2025
 
-###  NAME: Vaitheswaran N
+###  NAME: VAITHESWARAN N
 ###  ROLL NO :212224110059
-###  DEPARTMENT: CSE IOT
+###  DEPARTMENT: CSE(IOT)
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
